@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x414699dbf47b3824d4791a08ffc7696e3604aa72",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x414699dbf47b3824d4791a08ffc7696e3604aa72",
+  "CONTRACT_ADDRESS": "0xb2c69511dcab471e8c341b56313c6e07b7309f8c",
+  "SCAN_LINK": "https://polygonscan.com/address/0xb2c69511dcab471e8c341b56313c6e07b7309f8c",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/social-skulls",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/social-skulls",
   "SHOW_BACKGROUND": true
 }
